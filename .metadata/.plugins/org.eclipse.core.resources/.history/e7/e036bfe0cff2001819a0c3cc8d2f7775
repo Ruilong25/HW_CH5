@@ -1,0 +1,14 @@
+package test_p35;
+import java.io.BufferedReader;
+public class Sample5_7
+{
+
+	public static void main(String[] args)
+	{
+		try
+		{
+			FileWriter
+		}
+	}
+
+}
